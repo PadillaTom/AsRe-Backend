@@ -1,4 +1,4 @@
-# eCommerce Backend
+# Asado Remoto Backend
 
 ### Technologies:
 - Java 17
