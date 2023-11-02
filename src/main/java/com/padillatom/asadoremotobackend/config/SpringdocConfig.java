@@ -14,9 +14,9 @@ public class SpringdocConfig {
     public OpenAPI baseOPenAPI() {
         return new OpenAPI()
                 .info(new Info()
-                        .title("TAG - eCommerce")
+                        .title("Asado Remoto")
                         .version("1.0.0")
-                        .description("Backend Rest API para la plantilla 3.")
+                        .description("Backend Rest API para Asado Remoto App.")
                 );
     }
 }
